@@ -7,5 +7,5 @@ Esse repositório possui testes sem a implementação do código. Faça um fork,
 
 Para rodar os testes, execute no terminal o seguinte comando:
 ```
-./mvnw
+./mvnw test
 ```
